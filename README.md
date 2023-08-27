@@ -1,6 +1,5 @@
 <div id="header" align="center">
 
-        <img src="https://i.imgur.com/ylvTI6T.gif" width="200" />
         <img scr="https://i.imgur.com/ylvTI6T.gif" width="200" />
         <h1 align="center">Hi! My name is Johann</h1>
         <h3 align="center">I'm an enthusiast in programming and systems engineering.</h3>
@@ -8,14 +7,16 @@
 </div>
 
 <h3>🔨 Languages and Tools:</h3>
-<div>
+
+
 
 
         [![Discord](https://img.shields.io/badge/Discord-JOHANN%230475-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.com/app)
+        
         [![Instagram](https://img.shields.io/badge/Instagram-johann_2024-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/johann_2024)
+        [![YouTube](https://img.shields.io/badge/YouTube-Canal-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/channel/UCvI47WJI307LihCj4x07GKQ)
 
 
-</div>
 <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
@@ -40,7 +41,5 @@
 
 </div>
 
-![Instagram](https://img.shields.io/badge/Instagram-johann_2024-405DE6?logo=instagram&logoColor=white&style=flat-square)
 
 [![Discord](https://img.shields.io/badge/Discord-JOHANN%230475-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.com/app)
-[![YouTube](https://img.shields.io/badge/YouTube-Canal-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/channel/UCvI47WJI307LihCj4x07GKQ)
