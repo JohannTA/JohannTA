@@ -1,5 +1,5 @@
 <div id="header" align="center">
-        <img align="center" src="https://i.imgur.com/ylvTI6T.gif" width="200" />
+        <img src="https://i.imgur.com/ylvTI6T.gif" width="200" />
         <img scr="" width="200" />
         <h1 align="center">Hi! My name is Johann</h1>
         <h3 align="center">I'm an enthusiast in programming and systems engineering.</h3>
