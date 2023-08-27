@@ -1,6 +1,5 @@
 <div id="header" align="center">
-        <img src="https://i.imgur.com/ylvTI6T.gif" width="200" />
-        <img scr="" width="200" />
+        <img src="https://i.imgur.com/ylvTI6T.gif" width="200"/>
         <h1 align="center">Hi! My name is Johann</h1>
         <h3 align="center">I'm an enthusiast in programming and systems engineering.</h3>
 
@@ -44,8 +43,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"
-                width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" />
