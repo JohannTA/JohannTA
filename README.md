@@ -30,7 +30,7 @@
 - 📫 How to reach me **johannaguinaga20@gmail.com**
 
 - 🌱 I’m currently learning **Python**
-
+---
 <h3>🔨 Languages and Tools:</h3>
 
 
@@ -51,7 +51,7 @@
 
 </div>
 
-
+---
 <div align="center">
 
 
