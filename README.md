@@ -13,6 +13,7 @@
     <a href="https://twitter.com/johann_aguinaga"><img alt="Twitter Follow"
             src="https://img.shields.io/twitter/follow/johann_aguinaga">
     </a>
+    <a href=""><img src="https://streak-stats.demolab.com/?user=JohannTA&theme=merko&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats" alt="" srcset=""></a>
 
 </div>
 [![GitHub
