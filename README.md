@@ -10,7 +10,7 @@
 
 
 
-[![Discord](https://img.shields.io/badge/Discord-JOHANN%230475-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.com/app)   [![Instagram](https://img.shields.io/badge/Instagram-johann_aguinaga-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/johann_2024)
+[![Discord](https://img.shields.io/badge/Discord-JOHANN%230475-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.com/app)   [![Instagram](https://img.shields.io/badge/Instagram-johann_aguinaga-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/johann_aguinaga)
 [![YouTube](https://img.shields.io/badge/YouTube-Canal-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/channel/UCvI47WJI307LihCj4x07GKQ)
 
 
